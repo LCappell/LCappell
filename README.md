@@ -11,6 +11,11 @@
 - Cutting edge software and applications
 - Everything Tech
 
+what I'm learning: 
+
+- Advanced JavaScript
+- React
+
  
  How to reach me - louis.cappell@icloud.com 
  - 
