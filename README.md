@@ -4,7 +4,7 @@
   My Interests: 
   
 - Travelling 
-- Blockchain and Crypto Currencies 
+- Blockchain and Cryptocurrencies 
 - Football 
 - Coffee 
 - Cutting edge software and applications
