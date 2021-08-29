@@ -21,7 +21,7 @@ what I'm learning:
  - louis.cappell@icloud.com 
  - https://www.linkedin.com/in/louiscappell/
  
- - 
+ 
  Vist my website - www.louiscappell.com
 
 
