@@ -1,5 +1,5 @@
                                                <h1> Hi, I’m Louis! <h1>
-                                               <h2>  London, UK <h1>
+                                               <h2> London, UK <h2>
  
   My Interests: 
   
