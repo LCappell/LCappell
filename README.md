@@ -17,7 +17,10 @@ what I'm learning:
 - React
 
  
- How to reach me - louis.cappell@icloud.com 
+ How to reach me:
+ - louis.cappell@icloud.com 
+ - https://www.linkedin.com/in/louiscappell/
+ 
  - 
  Vist my website - www.louiscappell.com
 
