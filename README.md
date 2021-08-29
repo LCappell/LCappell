@@ -12,7 +12,7 @@
 - Everything Tech
 
  
- How to reach me - @louis.cappell@icloud.com 
+ How to reach me - louis.cappell@icloud.com 
  - 
  Vist my website - www.louiscappell.com
 
