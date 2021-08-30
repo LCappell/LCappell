@@ -8,9 +8,9 @@
 - Football 
 - Coffee 
 - Cutting edge software and applications
-- Everything Tech
+- Everything Tech!
 
-what I'm learning: 
+What I'm learning: 
 
 - Advanced JavaScript
 - React
