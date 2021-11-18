@@ -12,8 +12,8 @@
 
 What I'm learning: 
 
-- Advanced JavaScript
-- React
+- TypeScript
+- Advanced React 
 
  
  How to reach me:
@@ -21,7 +21,6 @@ What I'm learning:
  - https://www.linkedin.com/in/louiscappell/
  
  
- Vist my website - www.louiscappell.com
  
  ![coding-night](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
 
