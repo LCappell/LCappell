@@ -28,7 +28,7 @@ My Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giph
 <img src="https://img.shields.io/badge/-louis.cappell@icloud.com-7B83EB?&style=for-the-badge&logo=Apple-icloud&logoColor=white" >
   <a href="https://www.linkedin.com/in/louiscappell/" target="_blank"><img src="https://img.shields.io/badge/louiscappell-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" >
     
-    <hr>
+
 
 ### About 📌
 
