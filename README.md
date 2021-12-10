@@ -36,13 +36,13 @@ My Tech Stack :
 
 
 ### About 📌
-### ✔   Currently working on - https://www.genieus.help/
 
 ### ✔   Full-Stack Development 💻
 ### ✔  **Learning :** Solidity and advanced TypeScript
 ### ✔  **Hobbies :**  Football ⚽️, Snowboarding 🏂,  Travelling 🏝, web3🔮 and everything tech!
 
 <hr>
+     ###  [genieUs](https://www.genieus.help/) 
                                                
  <h3 textAlign="center"> Let's get in touch! 
  
