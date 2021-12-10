@@ -37,7 +37,7 @@ My Tech Stack :
 
 ### About 📌
 ### ✔   Currently working on:
-     - 💻 [genieUs](https://www.genieus.help/) 
+    ###  [genieUs](https://www.genieus.help/) 
 
 ### ✔   Full-Stack Development 💻
 ### ✔  **Learning :** Solidity and advanced TypeScript
