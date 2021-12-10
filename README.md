@@ -16,7 +16,7 @@ My Tech Stack:
 ### How to reach me: 
 <a href="mailto: louis.cappell@icloud.com">
 <img src="https://img.shields.io/badge/-louis.cappell@icloud.com-7B83EB?&style=for-the-badge&logo=Apple-icloud&logoColor=white" >
-  <a href="https://www.linkedin.com/in/louiscappell/"><img src="https://img.shields.io/badge/louiscappell-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" >
+  <a href="https://www.linkedin.com/in/louiscappell/" target="_blank"><img src="https://img.shields.io/badge/louiscappell-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" >
                                                
  
   My Interests: 
