@@ -32,7 +32,7 @@ My Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giph
 
 ### About 📌
 
-### ✔  **Domain :** Full-Stack Web Development 💻
+### ✔   Full-Stack Web Development 💻
 ### ✔  **Learning :** Solidity and advanced TypeScript
 ### ✔  **Hobbies :**  Football ⚽️, Snowboarding 🏂,  Travelling 🏝, web3🔮 and everything tech!
 
