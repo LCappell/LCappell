@@ -41,8 +41,10 @@ My Tech Stack :
 ### ✔  **Learning :** Solidity and advanced TypeScript
 ### ✔  **Hobbies :**  Football ⚽️, Snowboarding 🏂,  Travelling 🏝, web3🔮 and everything tech!
 
-<hr>
+
      ###  [genieUs](https://www.genieus.help/) 
+     
+     <hr>
                                                
  <h3 textAlign="center"> Let's get in touch! 
  
