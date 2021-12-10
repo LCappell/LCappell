@@ -33,9 +33,9 @@ My Tech Stack :
   <a href="https://www.linkedin.com/in/louiscappell/" target="_blank">
      <img src="https://img.shields.io/badge/louiscappell-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" >
     
-### Current Project 💪
+### Current working on 💪
      
-[genieUs](quora.com/profile/Ashish-Kulkarni-100) 
+### [genieUs](https://www.genieus.help/) 
 
 ### About 📌
 
