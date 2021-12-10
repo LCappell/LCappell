@@ -1,11 +1,13 @@
 
-<h1 align="center">Hi 👋, I am Louis Cappell </h1>
+<h1 align="center">Hi 👋, I am Louis Cappell
+img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+</h1>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LCappell&layout=compact)](https://github.com/LCappell/github-readme-stats)
 <!--  ![coding-night](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif) -->
 
-My Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+My Tech Stack <
 <br />
 <br />
 
