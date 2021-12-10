@@ -38,7 +38,7 @@ My Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giph
 
 <hr>
                                                
- 
+ <h3> Let's get in touch! 
  
 
 
