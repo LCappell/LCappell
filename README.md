@@ -7,8 +7,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LCappell&layout=compact)](https://github.com/LCappell/github-readme-stats)
 <!--  ![coding-night](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif) -->
 
-My Tech Stack <
-<br />
+My Tech Stack :
 <br />
 
 <p>
@@ -43,7 +42,7 @@ My Tech Stack <
 
 <hr>
                                                
- <h3> Let's get in touch! 
+ <h3 textAlign="center"> Let's get in touch! 
  
 
 
