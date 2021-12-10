@@ -35,7 +35,7 @@ My Tech Stack :
     
 ### Current Project 💪
      
-Click [here](quora.com/profile/Ashish-Kulkarni-100) to go to my Quora profile. 
+[genieUs](quora.com/profile/Ashish-Kulkarni-100) 
 
 ### About 📌
 
