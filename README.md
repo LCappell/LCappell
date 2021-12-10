@@ -2,7 +2,8 @@
 <h1 align="center">Hi, I am Louis Cappell </h1>
 
 
-[![Louis's GitHub stats](https://github-readme-stats.vercel.app/api?username=LCappell)](https://github.com/LCappell/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LCappell&layout=compact)](https://github.com/LCappell/github-readme-stats)
+
 
                                                
  
