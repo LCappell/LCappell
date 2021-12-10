@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/LCappell/LCappell/master/Hi.gif" width="30px">, I am Louis Cappell </h1>
+<h1 align="center">Hi, I am Louis Cappell </h1>
                                                
  
   My Interests: 
