@@ -9,28 +9,37 @@ My Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giph
 <br />
 <br />
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)&nbsp;
+<p>
+   <img src="https://img.shields.io/badge/HTML%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F26" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/css%20-%23F7DF1E.svg?&style=for-the-badge&color=5BA8EE" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?&style=for-the-badge&color=F7DF1E" />&nbsp;&nbsp;
+     <img src="https://img.shields.io/badge/TypeScript%20-%23F7DF1E.svg?&style=for-the-badge&color=3178C6" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/react%20-%23F7DF1E.svg?&style=for-the-badge&color=00D8FF" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/React Native%20-%23F7DF1E.svg?&style=for-the-badge&color=61DAFB" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Angular%20-%23F7DF1E.svg?&style=for-the-badge&color=DD0031" />&nbsp;&nbsp;
+   <br />
+     <img src="https://img.shields.io/badge/Node.js%20-%23F7DF1E.svg?&style=for-the-badge&color=6DB35A" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/MongoDB%20-%23F7DF1E.svg?&style=for-the-badge&color=5C9A37" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/MySQL%20-%23F7DF1E.svg?&style=for-the-badge&color=1E4C68" />&nbsp;&nbsp;
 
 
 ### How to reach me: 
 <a href="mailto: louis.cappell@icloud.com">
 <img src="https://img.shields.io/badge/-louis.cappell@icloud.com-7B83EB?&style=for-the-badge&logo=Apple-icloud&logoColor=white" >
   <a href="https://www.linkedin.com/in/louiscappell/" target="_blank"><img src="https://img.shields.io/badge/louiscappell-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" >
+    
+    <hr>
+
+### About 📌
+
+### ✔  **Domain :** Full-Stack Web Development 💻
+### ✔  **Learning :** Solidity and advanced TypeScript
+### ✔  **Hobbies :**  Football ⚽️, Snowboarding 🏂,  Travelling 🏝, web3🔮 and everything tech!
+
+<hr>
                                                
  
-  My Interests: 
-  
-- Travelling 
-- Blockchain and Cryptocurrencies 
-- Football 
-- Coffee 
-- Cutting edge software and applications
-- Everything Tech!
-
+ 
 
 
  
