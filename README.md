@@ -33,7 +33,9 @@ My Tech Stack :
   <a href="https://www.linkedin.com/in/louiscappell/" target="_blank">
      <img src="https://img.shields.io/badge/louiscappell-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" >
     
-
+### Current Project 💪
+     
+     - [genieUs](https://www.genieus.help/)
 
 ### About 📌
 
@@ -42,9 +44,7 @@ My Tech Stack :
 ### ✔  **Hobbies :**  Football ⚽️, Snowboarding 🏂,  Travelling 🏝, web3🔮 and everything tech!
 
 
-     ###  [genieUs](https://www.genieus.help/) 
-     
-     <hr>
+  
                                                
  <h3 textAlign="center"> Let's get in touch! 
  
