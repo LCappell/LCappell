@@ -1,5 +1,9 @@
 
 <h1 align="center">Hi, I am Louis Cappell </h1>
+
+
+[![Louis's GitHub stats](https://github-readme-stats.vercel.app/api?username=LCappell)](https://github.com/LCappell/github-readme-stats)
+
                                                
  
   My Interests: 
