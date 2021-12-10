@@ -15,7 +15,7 @@ My Tech Stack:
 
 ### How to reach me: 
 <a href="mailto: louis.cappell@icloud.com">
-<img src="https://img.shields.io/badge/-billpwchan%40hotmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" >
+<img src="https://img.shields.io/badge/-louis.cappell@icloud.com-7B83EB?&style=for-the-badge&logo=Apple-icloud&logoColor=white" >
                                                
  
   My Interests: 
