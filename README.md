@@ -35,7 +35,7 @@ My Tech Stack :
     
 ### Current working on 💪
      
-### [genieUs](https://www.genieus.help/) 
+### [genieUs](https://github.com/LCappell/genieus-client) 
 
 ### About 📌
 
