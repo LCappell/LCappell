@@ -33,9 +33,7 @@ My Tech Stack :
   <a href="https://www.linkedin.com/in/louiscappell/" target="_blank">
      <img src="https://img.shields.io/badge/louiscappell-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" >
     
-### Current working on 💪
-     
-### [genieUs](https://github.com/LCappell/genieus-client) 
+
 
 ### About 📌
 
