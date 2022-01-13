@@ -38,7 +38,7 @@ My Tech Stack :
 ### About 📌
 
 ### ✔   Full-Stack Development 💻
-### ✔  **Learning :** Solidity and advanced TypeScript
+### ✔  **Learning :** Solidity and ThreeJS
 ### ✔  **Hobbies :**  Football ⚽️, Snowboarding 🏂,  Travelling 🏝, web3🔮 and everything tech!
 
 
