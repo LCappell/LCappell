@@ -35,16 +35,6 @@ My Tech Stack :
   <a href="https://www.linkedin.com/in/louiscappell/" target="_blank">
      <img src="https://img.shields.io/badge/louiscappell-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" >
     
-
-
-### About 📌
-
-### ✔   Full-Stack Development 💻
-### ✔  **Learning :** Solidity and ThreeJS
-### ✔  **Hobbies :**  Football ⚽️, Snowboarding 🏂,  Travelling 🏝, web3🔮 and everything tech!
-
-
-  
                                                
  <h3 textAlign="center"> Let's get in touch! 
  
