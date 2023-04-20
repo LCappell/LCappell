@@ -36,7 +36,6 @@ My Tech Stack :
      <img src="https://img.shields.io/badge/louiscappell-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" >
     
                                                
- <h3 textAlign="center"> Let's get in touch! 
  
 
 
